@@ -32,7 +32,7 @@ const Navbar: React.FC = () => {
     { name: 'Contact', href: '#contact' },
   ];
 
-  const resumeLink = "https://drive.google.com/file/d/1MDlN7nIRBsgbGX_pCi0JLFjnXIy2fLd6/view";
+  const resumeLink = "https://drive.google.com/file/d/193BhGT4xtsHzxRmAWsIzvDb4B9VGOnkw/view";
 
   return (
     <nav className={`fixed w-full z-50 transition-all duration-300 ${scrolled ? 'glass-nav py-3' : 'bg-transparent py-5'}`}>
