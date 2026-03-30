@@ -2,7 +2,7 @@ import React from 'react';
 import { FileText, Download, Eye } from 'lucide-react';
 
 const Resume: React.FC = () => {
-  const resumeLink = "https://drive.google.com/file/d/1MDlN7nIRBsgbGX_pCi0JLFjnXIy2fLd6/view";
+  const resumeLink = "https://drive.google.com/file/d/193BhGT4xtsHzxRmAWsIzvDb4B9VGOnkw/view";
 
   return (
     <section id="resume" className="py-24 bg-dark relative">
