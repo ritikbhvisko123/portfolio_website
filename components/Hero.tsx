@@ -2,7 +2,7 @@ import React from 'react';
 import { ArrowRight, Download, Terminal } from 'lucide-react';
 
 const Hero: React.FC = () => {
-  const resumeLink = "https://drive.google.com/file/d/1MDlN7nIRBsgbGX_pCi0JLFjnXIy2fLd6/view";
+  const resumeLink = "https://drive.google.com/file/d/193BhGT4xtsHzxRmAWsIzvDb4B9VGOnkw/view";
 
   return (
     <section id="home" className="relative min-h-screen flex items-center justify-center overflow-hidden pt-16">
